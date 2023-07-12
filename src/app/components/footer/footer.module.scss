@@ -1,0 +1,13 @@
+.footerBlock {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  font-size: 25px;
+  justify-content: center;
+  background-color: black;
+  color: #fff;
+  & div {
+    margin: 0 auto;
+  }
+}
